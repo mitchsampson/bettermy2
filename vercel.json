@@ -1,5 +1,5 @@
 {
     "functions": {
-      "timeout": 60 // Timeout value in seconds
+      "timeout": 60
     }
   }
