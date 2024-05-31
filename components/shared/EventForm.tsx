@@ -177,7 +177,7 @@ const EventForm = ({ userId, type, event, eventId }: EventFormProps) => {
                         height={24}
                       />
 
-                      <Input placeholder="Court location or Online" {...field} className="input-field" />
+                      <Input placeholder="Court Location or Virtual" {...field} className="input-field" />
                     </div>
 
                   </FormControl>
