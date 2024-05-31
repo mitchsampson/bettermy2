@@ -11,8 +11,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'Bettermy',
-  description: 'Bettermy is a platform for tennis players to find coaches.',
+  title: 'BetterMy',
+  description: 'BetterMy is a platform for tennis players to find coaches.',
   icons: {
     icon: '/assets/images/logo.svg'
   }
