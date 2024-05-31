@@ -13,7 +13,7 @@ const CreateEvent = () => {
       </section>
 
       <div className="wrapper my-8">
-        <EventForm userId={userId} type="Create Coach" />
+        <EventForm userId={userId} type="Create" />
         {/* the "Profile" is added to the button in EventForm.tsx*/}
       </div>
     </>
